@@ -1,0 +1,2 @@
+{"meddelande":"Hejsan","rum":"adde","namn":"Adde","unikId":"A2jVDr6G3mS5M26wAAAB","datum":"8/25/2022, 12:50:09 PM"}
+{"meddelande":"Vad gör du?","rum":"adde","namn":"Adde","unikId":"A2jVDr6G3mS5M26wAAAB","datum":"8/25/2022, 12:50:18 PM"}
